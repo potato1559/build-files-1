@@ -1,0 +1,48 @@
+[["PlasticBlock", "GoldBlock", "WoodBlock"], {
+    "PlasticBlock": [
+        {
+            "ShowShadow": true,
+            "CanCollide": true,
+            "Color": "1,0,0",
+            "Anchored": true,
+            "Rotation": "0,0,0",
+            "Transparency": 0,
+            "Position": "0, 6.1, 0.5",
+            "Size": "250, 2, 297"
+        },
+        {
+            "ShowShadow": true,
+            "CanCollide": true,
+            "Color": "1,1,0",
+            "Anchored": true,
+            "Rotation": "0,0,0",
+            "Transparency": 0,
+            "Position": "0, 38.1, 0.5",
+            "Size": "250, 2, 297"
+        }
+    ],
+    "GoldBlock": [
+        {
+            "ShowShadow": true,
+            "CanCollide": true,
+            "Color": "0,0,1",
+            "Anchored": false,
+            "Rotation": "0,0,0",
+            "Transparency": 0,
+            "Position": "10, 20, 5",
+            "Size": "5,5,5"
+        }
+    ],
+    "WoodBlock": [
+        {
+            "ShowShadow": true,
+            "CanCollide": true,
+            "Color": "0,1,0",
+            "Anchored": true,
+            "Rotation": "0,90,0",
+            "Transparency": 0,
+            "Position": "-15, 10, 0",
+            "Size": "8,8,8"
+        }
+    ]
+}]

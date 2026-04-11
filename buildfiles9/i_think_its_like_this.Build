@@ -1,0 +1,71 @@
+{
+  "GlassBlock": [
+    {
+      "Anchored": true,
+      "CanCollide": true,
+      "Transparency": 0.55,
+      "Color": "0.10,0.16,0.20",
+      "Position": "0,79.5,0",
+      "Rotation": "0,0,0",
+      "Size": "160,1.5,180"
+    }
+  ],
+
+  "MetalBlock": [
+    { "Anchored": true, "CanCollide": true, "Color": "0.48,0.49,0.53",
+      "Position": "0,80,0", "Rotation": "0,0,0", "Size": "160,2,180" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "-70,92,-40", "Rotation": "0,0,0", "Size": "28,70,28" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "72,96,35", "Rotation": "0,0,0", "Size": "30,85,30" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "-25,90,75", "Rotation": "0,0,0", "Size": "22,55,22" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "0,88,55", "Rotation": "0,0,0", "Size": "120,2,14" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "0,98,-65", "Rotation": "0,0,0", "Size": "110,2,16" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "-85,88,10", "Rotation": "0,0,0", "Size": "16,2,90" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "88,90,5", "Rotation": "0,0,0", "Size": "16,2,85" }
+  ],
+
+  "TitaniumBlock": [
+    { "Anchored": true, "CanCollide": true, "Color": "0.25,0.26,0.27",
+      "Position": "0,96,10", "Rotation": "0,0,0", "Size": "55,55,55" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "-40,86,35", "Rotation": "0,0,0", "Size": "18,30,18" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "42,89,-30", "Rotation": "0,0,0", "Size": "20,34,20" },
+
+    { "Anchored": true, "CanCollide": true,
+      "Position": "30,84,60", "Rotation": "0,0,0", "Size": "14,26,14" }
+  ],
+
+  "NeonBlock": [
+    { "Anchored": true, "CanCollide": false, "Color": "0.45,0.46,0.50",
+      "Position": "-70,135,-40", "Rotation": "180,0,0", "Size": "4,50,4" },
+
+    { "Anchored": true, "CanCollide": false,
+      "Position": "72,140,35", "Rotation": "180,0,0", "Size": "5,55,5" },
+
+    { "Anchored": true, "CanCollide": false,
+      "Position": "0,150,0", "Rotation": "180,0,0", "Size": "8,70,8" },
+
+    { "Anchored": true, "CanCollide": false,
+      "Position": "-30,142,70", "Rotation": "180,0,0", "Size": "3,40,3" },
+
+    { "Anchored": true, "CanCollide": false,
+      "Position": "40,148,-60", "Rotation": "180,0,0", "Size": "3,45,3" }
+  ]
+}
+]
