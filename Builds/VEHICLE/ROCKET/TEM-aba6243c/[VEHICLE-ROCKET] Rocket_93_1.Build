@@ -1,0 +1,4013 @@
+{
+  "MetalBlock": [
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "2.00000, 2.00000, 112.00000",
+      "CanCollide": false,
+      "Rotation": "0.00746,-78.37615,0.00746",
+      "Transparency": 0,
+      "Position": "-49.93465, 9.09995, -118.90546"
+    }
+  ],
+  "Portal": [
+    {
+      "ShowShadow": true,
+      "Color": "0,0,1",
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "-90,0,-90",
+      "Transparency": 0,
+      "Position": "10.59977, 52.48697, 142.49802"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "1,0,0",
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "-90,0,-90",
+      "Transparency": 0,
+      "Position": "-2.60036, 52.48688, 142.49809"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0,0,1",
+      "Anchored": true,
+      "CanCollide": false,
+      "Rotation": "90.00015,0.0015,78.37613",
+      "Transparency": 0,
+      "Position": "-111.25081, 9.09831, -106.29245"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "1,0,0",
+      "Anchored": true,
+      "CanCollide": false,
+      "Rotation": "90.00015,0.0015,78.37613",
+      "Transparency": 0,
+      "Position": "-124.18042, 9.09796, -103.63336"
+    }
+  ],
+  "PlasticBlock": [
+    {
+      "ShowShadow": true,
+      "Color": "0.356863,0.364706,0.411765",
+      "Anchored": true,
+      "Size": "33.00000, 31.00000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "0,-0.03957,0",
+      "Transparency": 0,
+      "Position": "4.40177, 21.62827, 142.32077"
+    }
+  ],
+  "Switch": [
+    {
+      "BindTable": [
+        [
+          16,
+          "BindUp",
+          -1
+        ],
+        [
+          16,
+          "BindDown",
+          -1
+        ]
+      ],
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "CanCollide": false,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "0.00000, 5.34046, -127.00000"
+    }
+  ],
+  "Truss": [
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 35.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 23.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 19.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 31.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 27.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 7.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 15.10000, 138.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Anchored": true,
+      "CanCollide": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 11.10000, 138.00000"
+    }
+  ],
+  "Motor": [
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "BoolValues": {
+        "ReverseSpin": false
+      },
+      "NumberValues": {
+        "MaxSpeed": 50
+      },
+      "CanCollide": false,
+      "Rotation": "-90,0,0",
+      "Transparency": 0,
+      "Position": "4.00000, 6.10000, -130.00000",
+      "WheelTorque": 100000000
+    }
+  ],
+  "TitaniumBlock": [
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.00001, 35.09999, 169.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.00520, 35.10000, 293.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.61380, 37.56458, 355.00079"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.62940, 37.56458, 354.99921"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.00786, 35.10001, 355.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.62682, 37.56455, 292.99921"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.61633, 37.56454, 293.00079"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.60856, 37.56455, 479.00079"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.63476, 37.56455, 478.99921"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.01311, 35.10001, 479.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.61112, 37.56445, 417.00076"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.63221, 37.56445, 416.99924"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.01051, 35.10001, 417.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.01571, 35.10001, 541.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.60353, 37.56450, 603.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.64015, 37.56451, 602.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.01845, 35.09990, 603.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.63758, 37.56446, 540.99921"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.60601, 37.56445, 541.00079"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.64531, 37.56448, 726.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.02106, 35.09994, 665.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.02628, 35.09993, 789.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.59300, 37.56451, 851.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.65074, 37.56451, 850.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.02888, 35.09994, 851.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.02368, 35.09993, 727.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.64821, 37.56449, 788.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.60049, 37.56445, 665.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.59545, 37.56446, 789.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.59787, 37.56448, 727.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.64278, 37.56443, 664.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.58760, 37.56445, 975.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.65609, 37.56445, 974.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.03430, 35.09993, 975.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.59035, 37.56427, 913.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.65352, 37.56426, 912.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.03159, 35.09994, 913.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.03690, 35.09990, 1037.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.58257, 37.56438, 1099.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.66161, 37.56440, 1098.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.03953, 35.09981, 1099.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.65904, 37.56440, 1036.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.58509, 37.56437, 1037.00085"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.57181, 37.56440, 1347.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.67166, 37.56438, 1346.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.05008, 35.09978, 1347.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.57941, 37.56436, 1161.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.66925, 37.56437, 1284.99915"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.04482, 35.09983, 1223.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.57442, 37.56437, 1285.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.66384, 37.56438, 1160.99890"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.56641, 37.56436, 1471.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.67729, 37.56436, 1470.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.05549, 35.09982, 1471.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.56921, 37.56417, 1409.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.67471, 37.56412, 1408.99915"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.05278, 35.09980, 1409.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.05810, 35.09982, 1533.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.56138, 37.56429, 1595.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.68281, 37.56433, 1594.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.06073, 35.09971, 1595.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.66649, 37.56435, 1222.99915"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.68026, 37.56428, 1532.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.57681, 37.56439, 1223.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.56387, 37.56422, 1533.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.04214, 35.09985, 1160.99963"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.68772, 37.56427, 1718.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.06334, 35.09974, 1657.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.06847, 35.09973, 1781.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.55106, 37.56421, 1843.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.69317, 37.56421, 1842.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.07119, 35.09962, 1843.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.06586, 35.09972, 1719.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.69066, 37.56421, 1780.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.55844, 37.56416, 1657.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.55349, 37.56416, 1781.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.55576, 37.56422, 1719.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.68530, 37.56416, 1656.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.54549, 37.56416, 1967.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.69908, 37.56416, 1966.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.07690, 35.09965, 1967.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.54829, 37.56389, 1905.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.69610, 37.56390, 1904.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.07391, 35.09965, 1905.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.07952, 35.09961, 2029.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.54034, 37.56396, 2091.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.70462, 37.56396, 2090.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.08229, 35.09938, 2091.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.70205, 37.56398, 2028.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.54288, 37.56396, 2029.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.04739, 35.09979, 1285.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.71206, 37.56398, 2276.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.70663, 37.56394, 2152.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.53134, 37.56396, 2277.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.09022, 35.09938, 2277.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.52345, 37.56407, 2463.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.72025, 37.56404, 2462.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.09847, 35.09952, 2463.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.52618, 37.56394, 2401.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.71771, 37.56395, 2400.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.09576, 35.09954, 2401.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.10108, 35.09954, 2525.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.51842, 37.56403, 2587.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.72578, 37.56403, 2586.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.10370, 35.09941, 2587.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.53665, 37.56394, 2153.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.72323, 37.56398, 2524.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.08762, 35.09940, 2215.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.52092, 37.56396, 2525.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.70928, 37.56395, 2214.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.53397, 37.56392, 2215.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.73069, 37.56399, 2710.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.10631, 35.09943, 2649.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.30704, 35.09481, 7236.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.98707,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.28380, 37.55884, 7980.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.62147, 37.56453, 168.99922"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.96424, 37.55525, 7980.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0.00535,-179.9976",
+      "Transparency": 0,
+      "Position": "4.34292, 35.09239, 8042.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.96689, 37.55528, 8042.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.98707,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.28117, 37.55878, 8042.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0.00535,-179.9976",
+      "Transparency": 0,
+      "Position": "4.33996, 35.09156, 7980.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.33445, 35.09338, 7856.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99242,-0.00339",
+      "Transparency": 0,
+      "Position": "22.95818, 37.55870, 7856.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99242,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.28934, 37.55876, 7856.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0.00535,-179.9976",
+      "Transparency": 0,
+      "Position": "4.33727, 35.09161, 7918.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.96137, 37.55441, 7918.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99242,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.28658, 37.55791, 7918.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.94746, 37.55786, 7608.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.29711, 37.55798, 7670.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.29476, 37.55789, 7732.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.29984, 37.55793, 7608.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.95300, 37.55795, 7732.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.32633, 35.09411, 7670.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.33167, 35.09338, 7794.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.95553, 37.55791, 7794.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.29227, 37.55796, 7794.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.32899, 35.09410, 7732.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.32375, 35.09410, 7608.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.94989, 37.55868, 7670.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.30163, 35.09483, 7112.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.25817, 35.09623, 6120.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.30541, 37.55859, 7484.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.31885, 37.55832, 7174.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.94227, 37.55861, 7484.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.92759, 37.55830, 7174.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.32108, 35.09406, 7546.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.94491, 37.55869, 7546.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.30286, 37.55872, 7546.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.31837, 35.09482, 7484.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.31268, 35.09483, 7360.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.93581, 37.55858, 7360.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.31113, 37.55872, 7360.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.31570, 35.09483, 7422.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.11143, 35.09945, 2773.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.50813, 37.56396, 2835.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.73616, 37.56396, 2834.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.11415, 35.09936, 2835.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.10883, 35.09945, 2711.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.73362, 37.56393, 2772.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.51549, 37.56389, 2649.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.51057, 37.56388, 2773.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.51277, 37.56393, 2711.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.72827, 37.56387, 2648.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.50256, 37.56389, 2959.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.74202, 37.56388, 2958.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.11985, 35.09937, 2959.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.50533, 37.56361, 2897.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.73906, 37.56359, 2896.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.11686, 35.09938, 2897.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.12248, 35.09934, 3021.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.49736, 37.56366, 3083.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.74759, 37.56369, 3082.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.12524, 35.09909, 3083.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.52902, 37.56396, 2339.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.74500, 37.56371, 3020.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.49994, 37.56367, 3021.00073"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.71470, 37.56399, 2338.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.48643, 37.56370, 3331.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.75838, 37.56369, 3330.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.13593, 35.09907, 3330.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.49419, 37.56349, 3145.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.75559, 37.56350, 3268.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.13066, 35.09894, 3206.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.48909, 37.56349, 3269.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.75006, 37.56349, 3144.99927"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.09304, 35.09942, 2339.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.48087, 37.56366, 3455.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.76445, 37.56366, 3454.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.14191, 35.09911, 3454.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.48385, 37.56332, 3393.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.76106, 37.56322, 3392.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.13892, 35.09909, 3392.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.14455, 35.09911, 3516.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.47569, 37.56333, 3579.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.77005, 37.56333, 3578.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.14729, 35.09869, 3578.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.75285, 37.56329, 3206.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.76746, 37.56329, 3516.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.49156, 37.56329, 3207.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.47824, 37.56323, 3517.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.08490, 35.09943, 2153.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.12787, 35.09911, 3145.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.77508, 37.56329, 3702.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.14993, 35.09875, 3640.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.15511, 35.09873, 3764.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.46516, 37.56293, 3827.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.78060, 37.56291, 3826.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.15781, 35.09837, 3826.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.15248, 35.09872, 3702.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.77808, 37.56293, 3764.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.47263, 37.56287, 3641.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.46764, 37.56289, 3765.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.46993, 37.56296, 3703.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.77265, 37.56287, 3640.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.45953, 37.56287, 3951.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.78650, 37.56288, 3950.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.16358, 35.09836, 3950.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.46245, 37.56237, 3889.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.78353, 37.56230, 3888.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.16056, 35.09835, 3888.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.16623, 35.09830, 4012.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.45439, 37.56239, 4075.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.79212, 37.56237, 4074.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.16898, 35.09779, 4074.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.62411, 37.56455, 230.99922"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.78953, 37.56239, 4012.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.62146, 37.56452, 169.00078"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.45697, 37.56242, 4013.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.13335, 35.09908, 3268.99976"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.61891, 37.56454, 231.00078"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.43691, 37.56239, 4447.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.80677, 37.56242, 4446.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.18498, 35.09785, 4446.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.43965, 37.56226, 4385.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.80421, 37.56227, 4384.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.18227, 35.09785, 4385.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.18759, 35.09789, 4508.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.43192, 37.56240, 4571.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.81229, 37.56236, 4570.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.19021, 35.09779, 4570.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.80129, 37.56243, 4322.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.80973, 37.56232, 4508.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.44244, 37.56243, 4323.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.43439, 37.56229, 4509.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.17688, 35.09783, 4261.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.17160, 35.09782, 4137.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.81720, 37.56236, 4694.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.19282, 35.09784, 4632.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.19794, 35.09782, 4756.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.42157, 37.56233, 4819.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.82268, 37.56231, 4818.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.20070, 35.09773, 4818.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.19534, 35.09780, 4694.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.82016, 37.56231, 4756.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.42896, 37.56223, 4633.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.42402, 37.56226, 4757.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.42625, 37.56230, 4695.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.81476, 37.56220, 4632.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.41599, 37.56226, 4943.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.82859, 37.56227, 4942.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.20641, 35.09772, 4942.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.41879, 37.56198, 4881.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.82562, 37.56197, 4880.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.20342, 35.09775, 4880.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.20903, 35.09769, 5004.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.41079, 37.56203, 5067.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.83414, 37.56207, 5066.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.21180, 35.09745, 5066.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.79881, 37.56238, 4260.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.83154, 37.56207, 5004.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.00264, 35.09999, 231.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.41337, 37.56206, 5005.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.44487, 37.56240, 4261.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.39986, 37.56203, 5315.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.84494, 37.56200, 5314.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.22250, 35.09740, 5314.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.40763, 37.56183, 5129.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.84216, 37.56185, 5252.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.21723, 35.09727, 5190.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.40252, 37.56184, 5253.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.83660, 37.56182, 5128.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.79332, 37.56237, 4136.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.39427, 37.56196, 5439.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.85103, 37.56199, 5438.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.22849, 35.09741, 5438.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.39729, 37.56164, 5377.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.84761, 37.56155, 5376.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.22549, 35.09742, 5376.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.23112, 35.09743, 5500.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.38913, 37.56163, 5563.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.85663, 37.56165, 5562.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.23384, 35.09703, 5562.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.83939, 37.56163, 5190.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.85403, 37.56158, 5500.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.40500, 37.56163, 5191.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.39163, 37.56153, 5501.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.17956, 35.09774, 4322.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.21442, 35.09750, 5128.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.86163, 37.56161, 5686.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.23648, 35.09707, 5624.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.24166, 35.09706, 5748.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.37863, 37.56129, 5811.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.86717, 37.56127, 5810.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.24436, 35.09669, 5810.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.23903, 35.09701, 5686.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.86462, 37.56124, 5748.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.38608, 37.56121, 5625.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.38106, 37.56122, 5749.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.38336, 37.56128, 5687.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.85921, 37.56122, 5624.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.37299, 37.56124, 5935.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.87305, 37.56125, 5934.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.25013, 35.09671, 5934.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.37589, 37.56068, 5873.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.87005, 37.56068, 5872.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.24710, 35.09671, 5872.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.25278, 35.09667, 5996.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.36784, 37.56079, 6059.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.87867, 37.56076, 6058.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.25552, 35.09618, 6058.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.44994, 37.56237, 4137.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.87606, 37.56076, 5996.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.17437, 35.09781, 4199.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.37041, 37.56076, 5997.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.21992, 35.09741, 5252.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.88609, 37.56049, 6244.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.88074, 37.56048, 6120.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.35913, 37.56047, 6245.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.26341, 35.09586, 6244.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.79596, 37.56239, 4198.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.35111, 37.56091, 6431.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.89465, 37.56086, 6430.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.27163, 35.09631, 6430.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.35391, 37.56045, 6369.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.89172, 37.56047, 6368.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.26914, 35.09636, 6368.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.27454, 35.09632, 6492.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.34592, 37.56047, 6555.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.90027, 37.56045, 6554.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.27727, 35.09584, 6554.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.36429, 37.56048, 6121.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.89727, 37.56047, 6492.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.26079, 35.09589, 6182.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.34861, 37.56048, 6493.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.88334, 37.56015, 6182.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.36176, 37.56005, 6183.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.90530, 37.56043, 6678.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.27992, 35.09584, 6616.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.28511, 35.09586, 6740.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.33543, 37.56006, 6803.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.91088, 37.56001, 6802.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.28780, 35.09543, 6802.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.28247, 35.09587, 6678.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.90832, 37.55997, 6740.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.34289, 37.55995, 6617.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.33788, 37.55995, 6741.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.34015, 37.56006, 6679.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.90290, 37.55993, 6616.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.32980, 37.56002, 6927.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.91670, 37.55997, 6926.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.29358, 35.09545, 6926.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.33264, 37.55936, 6865.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.91373, 37.55930, 6864.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.29056, 35.09548, 6864.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.29625, 35.09542, 6988.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.32460, 37.55943, 7051.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.92237, 37.55938, 7050.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.29896, 35.09483, 7050.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.35667, 37.56014, 6307.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.91975, 37.55943, 6988.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.44731, 37.56240, 4199.00049"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.32722, 37.55943, 6989.00000"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.88877, 37.56015, 6306.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.31367, 37.55946, 7298.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.93306, 37.55941, 7298.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.30965, 35.09478, 7298.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.32146, 37.55888, 7112.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.93031, 37.55889, 7236.99756"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.30439, 35.09429, 7174.99854"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.31640, 37.55887, 7236.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.92483, 37.55885, 7112.99805"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "32.00000, 63.50000, 4.00000",
+      "CanCollide": true,
+      "Rotation": "-90.00001,0,-179.9976",
+      "Transparency": 0,
+      "Position": "4.26611, 35.09588, 6306.99902"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "90.00239,44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "-14.30803, 37.55940, 7422.99951"
+    },
+    {
+      "ShowShadow": true,
+      "Color": "0.623529,0.631373,0.67451",
+      "Anchored": true,
+      "Size": "3.00000, 63.50000, 10.00000",
+      "CanCollide": true,
+      "Rotation": "89.99759,-44.99777,-0.00339",
+      "Transparency": 0,
+      "Position": "22.93921, 37.55940, 7422.99756"
+    }
+  ]
+}

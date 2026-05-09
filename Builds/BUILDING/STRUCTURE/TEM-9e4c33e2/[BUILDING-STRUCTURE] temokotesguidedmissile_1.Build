@@ -1,0 +1,473 @@
+{
+  "MetalBlock": [
+    {
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "CanCollide": true,
+      "Anchored": true,
+      "Position": "-32.00000, 9.10000, -139.00000",
+      "Size": "2.00000, 2.00000, 2.00000"
+    }
+  ],
+  "JetTurbine": [
+    {
+      "Rotation": "-180.00001,0,-180.00001",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-29.39999, 8420.59961, -119.98526",
+      "NumberValues": {
+        "MaxSpeed": 100,
+        "MaxForce": 10000000000
+      },
+      "Anchored": true,
+      "CanCollide": true
+    }
+  ],
+  "PilotSeat": [
+    {
+      "Rotation": "-180.00001,0,-180.00001",
+      "BindTable": [
+        [
+          2,
+          "BindFire",
+          -1
+        ],
+        [
+          4,
+          "BindFire",
+          -1
+        ]
+      ],
+      "ShowShadow": true,
+      "Position": "-31.99997, 15.59994, -141.00006",
+      "CanCollide": false,
+      "Anchored": true,
+      "Transparency": 0
+    }
+  ],
+  "CameraDome": [
+    {
+      "Rotation": "90,90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-29.39999, 8421.37500, -113.79993",
+      "Anchored": true,
+      "CanCollide": true,
+      "BoolValues": {
+        "ShowCrosshairs": true
+      }
+    }
+  ],
+  "Hinge": [
+    {
+      "Rotation": "0,90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-40.99999, 16.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "0,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-23.00001, 16.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-32.00000, 10.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    }
+  ],
+  "Rope": [
+    {
+      "ShowShadow": true,
+      "CanCollide": false,
+      "Anchored": true,
+      "RopeLength": 8408.0439453125,
+      "Transparency": 0,
+      "SecondaryPartRotation": "0,0,0",
+      "Position": "-29.39999, 8419.59961, -114.00000",
+      "SecondaryPartPosition": "-31.99997, 12.59960, -141.00006",
+      "Rotation": "0,0,0",
+      "MatchRotation": true
+    }
+  ],
+  "Switch": [
+    {
+      "Rotation": "0,0,0",
+      "BindTable": [
+        [
+          10,
+          "BindFire",
+          -1
+        ],
+        [
+          11,
+          "BindFire",
+          -1
+        ],
+        [
+          12,
+          "BindFire",
+          -1
+        ]
+      ],
+      "ShowShadow": true,
+      "Position": "-24.00000, 5.34046, -145.00006",
+      "CanCollide": true,
+      "Anchored": true,
+      "Transparency": 0
+    }
+  ],
+  "SticksOfTNT": [
+    {
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-29.39999, 8420.59961, -111.87851",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-29.42130, 8423.40234, -110.87277",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-29.44260, 8423.38477, -113.30225",
+      "Anchored": true,
+      "CanCollide": true
+    }
+  ],
+  "PlasticBlock": [
+    {
+      "ShowShadow": true,
+      "CanCollide": true,
+      "Color": "0.905882,0.905882,0.92549",
+      "Anchored": true,
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "Position": "-29.39999, 8420.59961, -114.99994",
+      "Size": "1.00000, 1.00000, 4.00000"
+    }
+  ],
+  "MetalRod": [
+    {
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-32.00000, 6.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-32.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-29.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-26.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-23.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-35.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-38.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-41.00000, 11.59999, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-180.00001,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-42.00001, 13.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-180.00001,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-42.00001, 16.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-180.00001,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-42.00001, 19.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-180.00001,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-22.00001, 13.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-180.00001,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-22.00001, 16.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-180.00001,-90,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-22.00001, 19.60000, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-24.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-27.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-30.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-33.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-36.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-39.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "-90,0,90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-40.00000, 20.60001, -139.00000",
+      "Anchored": true,
+      "CanCollide": true
+    },
+    {
+      "Rotation": "90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-39.99997, 16.59987, -139.00000",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-39.99997, 16.59984, -142.00000",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-24.00003, 16.60011, -139.00000",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-24.00003, 16.60015, -142.00000",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-24.00003, 16.60015, -136.00000",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "90,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-39.99997, 16.59984, -136.00000",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-37.99997, 16.59994, -135.00012",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-34.99997, 16.59994, -135.00015",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-31.99997, 16.59994, -135.00018",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-28.99997, 16.59994, -135.00021",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-25.99997, 16.59994, -135.00024",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-37.99997, 16.59994, -143.00012",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-34.99997, 16.59994, -143.00015",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-31.99997, 16.59994, -143.00018",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-28.99997, 16.59994, -143.00021",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "-180.00001,0,-90",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-25.99997, 16.59994, -143.00024",
+      "Anchored": true,
+      "CanCollide": false
+    },
+    {
+      "Rotation": "0,0,0",
+      "Transparency": 0,
+      "ShowShadow": true,
+      "Position": "-31.99997, 14.59994, -142.99997",
+      "Anchored": true,
+      "CanCollide": false
+    }
+  ]
+}
